@@ -18,7 +18,7 @@ ___
 
 Some of the dataset clustering images of models:
 
-![output1](https://github.com/user-attachments/assets/117ab761-d002-4c1c-a795-d4e92530c1da)
+![output (1)](https://github.com/user-attachments/assets/03902c0d-6cd5-456f-b877-5a9d6305c272)
 ![output1](https://github.com/user-attachments/assets/b31f122c-12e0-4e7d-b519-de7717e90715)
 
 
