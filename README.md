@@ -15,8 +15,9 @@ Dataset Information:
 
 
 ___
-Pca n_components = 2 accepted
-Number of clusters 3 accepted
+Pca n_components = 2 accepted. 
+
+Number of clusters 3 accepted.
 
 ___
 Some of the dataset clustering images of models:
