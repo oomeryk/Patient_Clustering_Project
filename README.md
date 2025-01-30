@@ -15,7 +15,10 @@ Dataset Information:
 
 
 ___
+Pca n_components = 2 accepted
+Number of clusters 3 accepted
 
+___
 Some of the dataset clustering images of models:
 
 ![output (1)](https://github.com/user-attachments/assets/03902c0d-6cd5-456f-b877-5a9d6305c272)
@@ -25,6 +28,7 @@ Some of the dataset clustering images of models:
 ___
 
 Silhouette and Davies Bouldin Scores of Models:
+(The best score was obtained by the DBSCAN algorithm created with min_max_scaling dataset.)
 
 ![output2](https://github.com/user-attachments/assets/8831da3a-8d1d-417e-a9bc-0e88c671674c)
 
